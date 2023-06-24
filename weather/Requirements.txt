@@ -1,0 +1,4 @@
+pyfiglet==0.7
+argparse==3.11.4
+simple-chalk==0.1.0
+requests==2.31.0
