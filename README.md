@@ -9,7 +9,7 @@ This is a command-line tool that accepts a city's name and returns the weather f
 To use the tool, simply run the following command from the command line:
 
 
-python weather_forecast.py <city_name>
+python filename.py <city_name>
 
 
 For example, to get the weather forecast for London, you would run the following command:
