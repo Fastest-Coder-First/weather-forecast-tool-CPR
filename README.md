@@ -15,7 +15,7 @@ python weather_forecast.py <city_name>
 For example, to get the weather forecast for London, you would run the following command:
 
 
-python weather_forecast.py London
+python filename.py London
 
 
 The tool will print out the weather forecast for the city you specified.
@@ -38,7 +38,7 @@ initialize the pipenv shell
 
 using the command given in usage section, fetching the weather forecasting of desired country
 
-## Architecture of the application model
+## Architecture of the application model:<br>
 
 ![Architecture](https://github.com/Fastest-Coder-First/weather-forecast-tool-CPR/assets/107295291/a382772d-9265-4498-a07e-a8184af5d234)
 
