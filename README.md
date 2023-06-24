@@ -44,7 +44,7 @@ using the command given in usage section, fetching the weather forecasting of de
 ![Architecture](https://github.com/Fastest-Coder-First/weather-forecast-tool-CPR/assets/107295291/a382772d-9265-4498-a07e-a8184af5d234)
 
 
-## GitHub Copilot
+## GitHub Copilot and its usage regarding to this module
 
 GitHub Copilot can help you with API usage, data parsing, and error handling in this tool. For example, if you are not sure how to use the Open Weather Map API, GitHub Copilot can help you generate the code you need. Similarly, if you are not sure how to parse the JSON response from the API, GitHub Copilot can help you generate the code you need. Finally, if you encounter an error, GitHub Copilot can help you debug the code and fix the error.
 
