@@ -49,7 +49,7 @@ using the command given in usage section, fetching the weather forecasting of de
 GitHub Copilot can help you with API usage, data parsing, and error handling in this tool. For example, if you are not sure how to use the Open Weather Map API, GitHub Copilot can help you generate the code you need. Similarly, if you are not sure how to parse the JSON response from the API, GitHub Copilot can help you generate the code you need. Finally, if you encounter an error, GitHub Copilot can help you debug the code and fix the error.
 
 ## Team members
- K Venkat Sai Charan - https://github.com/CHARANKVS1203
- V PAVAN KUMAR - https://github.com/Pavan5527
- K Rajini Kanth - https://github.com/Rajinikanth-Kakarla
- K Pavan Kumar Goud - https://github.com/pavankotla01
+ K Venkat Sai Charan - https://github.com/CHARANKVS1203<br/>
+ V PAVAN KUMAR - https://github.com/Pavan5527<br/>
+ K Rajini Kanth - https://github.com/Rajinikanth-Kakarla<br/>
+ K Pavan Kumar Goud - https://github.com/pavankotla01<br/>
